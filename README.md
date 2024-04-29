@@ -5,7 +5,6 @@
 </div>
 
 <br/>
-<br/>
 
 **Lenguajes y herramientas:**
 <p>
@@ -23,7 +22,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
-<br/>
 <br/>
 
 **Sobre mí:**
