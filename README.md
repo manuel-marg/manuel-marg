@@ -3,9 +3,11 @@
     <summary><h1 style="display: inline-block">Hola 👋, soy Manuel R.</h1></summary>
   </ul>
 </div>
+
 <br/>
 <br/>
 <br/>
+
 **Lenguajes y herramientas:**
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -21,9 +23,11 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
+
 <br/>
 <br/>
 <br/>
+
 **Sobre mí:**
  - Soy estudiante de Ingeniería de Sistemas 📚
  - Me apasiona programar 🧑‍💻
