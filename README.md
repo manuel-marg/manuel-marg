@@ -2,7 +2,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Manuel R.</h1></summary>
   </ul>
-      <img src="https://raw.githubusercontent.com/manuel-marg/manuel-marg/51c59991c01da04b1179cd98c9fc209931dcf7a4/programador.gif" alt="Programador GIF" align="center">
+  <div align="center">
+      <img src="https://raw.githubusercontent.com/manuel-marg/manuel-marg/51c59991c01da04b1179cd98c9fc209931dcf7a4/programador.gif" alt="Programador GIF">
+  </div>
 </div>
 
 <br/>
