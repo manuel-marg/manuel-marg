@@ -1,3 +1,20 @@
+<style>
+  @keyframes moveIn {
+    from {
+      transform: translateX(-100px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  #user-content-toc {
+    animation: moveIn 1s ease-in-out;
+  }
+</style>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Manuel R.</h1></summary>
