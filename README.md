@@ -1,6 +1,6 @@
 # Hola 👋, soy Manuel R.
 
-![Soy Ingeniero de Sistemas](https://img.shields.io/badge/Soy-Ingeniero%20de%20Sistemas-green)
+![Soy Ingeniero de Sistemas](https://img.shields.io/badge/Soy-Ingeniero%20de%20Sistemas-like-blue)
 
 <br/>
 
