@@ -1,8 +1,4 @@
-<div id="user-content-toc" style="transform: rotate(0deg); transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Manuel R.</h1></summary>
-  </ul>
-</div>
+<div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">Hola 👋, soy Manuel R.</h1></summary> </ul> </div>
 
 <br/>
 
