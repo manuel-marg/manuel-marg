@@ -28,8 +28,8 @@
 <br/>
 
 **Sobre mí:**
- - Soy estudiante de Ingeniería de Sistemas 📚
  - Me apasiona programar 🧑‍💻
+ - Soy estudiante de Ingeniería de Sistemas 📚
  - Soy el creador de una cuenta en Twitter.com/X.com que informa sobre el tráfico 🚗 de manera automática utilizando IA
  - Me gusta aprender cosas nuevas y aunque no soy el mejor programador, disfruto de los retos y la oportunidad de crear cosas innovadoras 🚀
  - Me encanta ayudar a otros, así que no dudes en ponerte en contacto conmigo si necesitas asistencia con algún proyecto 💡
